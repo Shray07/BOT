@@ -1,0 +1,182 @@
+{
+  "Sweden": {
+    "checked": true,
+    "has_slots": false,
+    "earliest_date": null,
+    "slot_count": 0,
+    "message": "Booking page - no specific dates found",
+    "timestamp": "2026-06-19T16:09:45.321692",
+    "url": "https://visa.vfsglobal.com/gbr/en/swe/book-an-appointment",
+    "provider": "VFS Global"
+  },
+  "Portugal": {
+    "checked": true,
+    "has_slots": false,
+    "earliest_date": null,
+    "slot_count": 0,
+    "message": "Could not determine slot status",
+    "timestamp": "2026-06-19T16:10:02.597227",
+    "url": "https://visa.vfsglobal.com/gbr/en/prt/login",
+    "provider": "VFS Global"
+  },
+  "Latvia": {
+    "checked": true,
+    "has_slots": false,
+    "earliest_date": null,
+    "slot_count": 0,
+    "message": "Could not determine slot status",
+    "timestamp": "2026-06-19T16:10:18.678082",
+    "url": "https://visa.vfsglobal.com/gbr/en/lva/login",
+    "provider": "VFS Global"
+  },
+  "Greece": {
+    "checked": true,
+    "has_slots": false,
+    "earliest_date": null,
+    "slot_count": 0,
+    "message": "Could not determine slot status",
+    "timestamp": "2026-06-19T16:10:48.549063",
+    "url": "https://uk-gr-services.gvcworld.eu/login/GB/en?lang=en_US",
+    "provider": "GVC World"
+  },
+  "Finland": {
+    "checked": true,
+    "has_slots": false,
+    "earliest_date": null,
+    "slot_count": 0,
+    "message": "Booking page - no specific dates found",
+    "timestamp": "2026-06-19T16:11:13.168421",
+    "url": "https://visa.vfsglobal.com/gbr/en/fin",
+    "provider": "VFS Global"
+  },
+  "Iceland": {
+    "checked": true,
+    "has_slots": false,
+    "earliest_date": null,
+    "slot_count": 0,
+    "message": "Could not determine slot status",
+    "timestamp": "2026-06-19T16:11:29.450148",
+    "url": "https://visa.vfsglobal.com/gbr/en/isl/login",
+    "provider": "VFS Global"
+  },
+  "Lithuania": {
+    "checked": true,
+    "has_slots": false,
+    "earliest_date": null,
+    "slot_count": 0,
+    "message": "Could not determine slot status",
+    "timestamp": "2026-06-19T16:11:46.577899",
+    "url": "https://visa.vfsglobal.com/gbr/en/ltu/login",
+    "provider": "VFS Global"
+  },
+  "Slovenia": {
+    "checked": true,
+    "has_slots": false,
+    "earliest_date": null,
+    "slot_count": 0,
+    "message": "Booking page - no specific dates found",
+    "timestamp": "2026-06-19T16:12:02.921115",
+    "url": "https://visa.vfsglobal.com/gbr/en/svn",
+    "provider": "VFS Global"
+  },
+  "Hungary": {
+    "checked": true,
+    "has_slots": false,
+    "earliest_date": null,
+    "slot_count": 0,
+    "message": "Could not determine slot status",
+    "timestamp": "2026-06-19T16:12:13.735272",
+    "url": "https://visa.vfsglobal.com/gbr/en/hun/login",
+    "provider": "VFS Global"
+  },
+  "Austria": {
+    "checked": true,
+    "has_slots": false,
+    "earliest_date": null,
+    "slot_count": 0,
+    "message": "Could not determine slot status",
+    "timestamp": "2026-06-19T16:12:32.191213",
+    "url": "https://visa.vfsglobal.com/gbr/en/aut/login",
+    "provider": "VFS Global"
+  },
+  "Croatia": {
+    "checked": true,
+    "has_slots": false,
+    "earliest_date": null,
+    "slot_count": 0,
+    "message": "Login page - cannot determine slot availability",
+    "timestamp": "2026-06-19T16:12:47.880324",
+    "url": "https://visa.vfsglobal.com/gbr/en/hrv/book-an-appointment",
+    "provider": "VFS Global"
+  },
+  "Netherlands": {
+    "checked": true,
+    "has_slots": false,
+    "earliest_date": null,
+    "slot_count": 0,
+    "message": "Could not determine slot status",
+    "timestamp": "2026-06-19T16:13:09.327973",
+    "url": "https://visa.vfsglobal.com/gbr/en/nld/login",
+    "provider": "VFS Global"
+  },
+  "Italy": {
+    "checked": true,
+    "has_slots": false,
+    "earliest_date": null,
+    "slot_count": 0,
+    "message": "Could not determine slot status",
+    "timestamp": "2026-06-19T16:13:35.149042",
+    "url": "https://visa.vfsglobal.com/gbr/en/ita/login",
+    "provider": "VFS Global"
+  },
+  "Czech Republic": {
+    "checked": true,
+    "has_slots": false,
+    "earliest_date": null,
+    "slot_count": 0,
+    "message": "Could not determine slot status",
+    "timestamp": "2026-06-19T16:13:53.388064",
+    "url": "https://visa.vfsglobal.com/gbr/en/cze/login",
+    "provider": "VFS Global"
+  },
+  "Malta": {
+    "checked": true,
+    "has_slots": false,
+    "earliest_date": null,
+    "slot_count": 0,
+    "message": "Could not determine slot status",
+    "timestamp": "2026-06-19T16:14:11.195898",
+    "url": "https://visa.vfsglobal.com/gbr/en/mlt/login",
+    "provider": "VFS Global"
+  },
+  "France": {
+    "checked": true,
+    "has_slots": false,
+    "earliest_date": null,
+    "slot_count": 0,
+    "message": "Could not determine slot status",
+    "timestamp": "2026-06-19T16:14:54.567582",
+    "url": "https://fr.tlscontact.com/gb/LON/index.php",
+    "provider": "TLScontact"
+  },
+  "Germany": {
+    "checked": true,
+    "has_slots": false,
+    "earliest_date": null,
+    "slot_count": 0,
+    "message": "No browser automation available",
+    "timestamp": "2026-06-19T16:15:04.333952",
+    "url": "https://visa-de.tlscontact.com/visa/gb",
+    "provider": "TLScontact"
+  },
+  "Switzerland": {
+    "checked": true,
+    "has_slots": false,
+    "earliest_date": null,
+    "slot_count": 0,
+    "message": "Could not determine slot status",
+    "timestamp": "2026-06-19T16:15:20.226211",
+    "url": "https://visa.vfsglobal.com/gbr/en/che/login",
+    "provider": "VFS Global"
+  }
+}
